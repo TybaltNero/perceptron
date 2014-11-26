@@ -1,0 +1,56 @@
+/*
+	design.css
+		Kumadev
+*/
+
+body {
+	margin: auto;
+	font-family: "Calibri";
+	font-size: 18px;
+	color: black;
+	background-color: white;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: white;
+	text-decoration: underline;
+}
+
+h1{
+	font-size: 20px;
+	cursor: cross;
+}
+
+/* banner */
+
+#banner_fond{
+	width: 100%;
+	height: 65px;
+	background-color: #202020;
+}
+
+#banner{
+	font-size: 30px;
+	color: white;
+	padding: 15px;
+}
+
+#menu{
+	margin-top: 15px;
+	text-align: center;
+}
+
+#jeu{
+	width: 500px;
+	height: 500px;
+	margin: 15px;
+	/* background-image: url("images/fond.png"); */
+}
+
+
+
